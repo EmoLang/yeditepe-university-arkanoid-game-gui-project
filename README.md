@@ -1,1 +1,1 @@
-# yeditepe-university-arkanoid-game-gui-project
+# Yeditepe University Cse-212 Term Project
