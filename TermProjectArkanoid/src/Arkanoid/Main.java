@@ -153,8 +153,13 @@ public class Main {
 		exit.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
+				String audioFilePath = "MicrosoftWindowsXPShutdown-Sound Effect(HD).wav";
+		        AudioPlayerExample1 player = new AudioPlayerExample1();
+		        player.play(audioFilePath);
+		        
 				JOptionPane.showMessageDialog(exit,"GOODBYE");
 				mainMenu.dispatchEvent(new WindowEvent(mainMenu, WindowEvent.WINDOW_CLOSING));
+				System.exit(0);
 			}
 		});
 		mainMenu.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
