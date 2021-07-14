@@ -3,5 +3,6 @@ Please position the media content required for the program to run in accordance 
 For example :
 For Eclipse users = Pictures must be in bin folder.
 It is completely open to use, except for Yeditepe University students. 
+//////////////////////////////////////Warning\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 !!!Yeditepe University students cannot benefit from this code due to plagiarism.!!!
 
